@@ -21,7 +21,7 @@ TextField textField = new TextField("Text", 16);
 
 void setup(){
   writeToFile("Player: Name, Email, Time, Pulse", "highscore.txt");
-
+ 
 }
 
 
