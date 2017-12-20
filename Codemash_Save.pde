@@ -20,11 +20,8 @@ void writeToFile(String myContent, String myFile) {
 TextField textField = new TextField("Text", 16);
 
 void setup(){
-  writeToFile("Player: Name, Email, Time, Pulse", "highscore.txt");
- 
+  writeToFile("Player: Name, Email, Time, Pulse", "highscore.txt"); 
 }
-
-
 
 void draw () {
 }
